@@ -1,0 +1,9 @@
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\bin\Debug\MF0493_3.dll
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\bin\Debug\EntityFramework.dll
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\bin\Debug\MF0493_3.pdb
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\bin\Debug\EntityFramework.xml
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\obj\Debug\TestUnitarios.csprojResolveAssemblyReference.cache
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\desweb\Source\Repos\Examen\TestUnitarios\obj\Debug\TestUnitarios.pdb
